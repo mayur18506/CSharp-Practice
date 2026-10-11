@@ -1,0 +1,7 @@
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\bin\Debug\Dictionary,Sorted Dictionary.24.exe.config
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\bin\Debug\Dictionary,Sorted Dictionary.24.exe
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\bin\Debug\Dictionary,Sorted Dictionary.24.pdb
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\obj\Debug\Dictionary,Sorted Dictionary.24.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\obj\Debug\Dictionary,Sorted Dictionary.24.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\obj\Debug\Dictionary,Sorted Dictionary.24.exe
+D:\C# with Visual Studio\Dictionary,Sorted Dictionary.24\Dictionary,Sorted Dictionary.24\obj\Debug\Dictionary,Sorted Dictionary.24.pdb
