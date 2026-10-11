@@ -1,0 +1,7 @@
+D:\C# with Visual Studio\Linked List.23\Linked List.23\bin\Debug\Linked List.23.exe.config
+D:\C# with Visual Studio\Linked List.23\Linked List.23\bin\Debug\Linked List.23.exe
+D:\C# with Visual Studio\Linked List.23\Linked List.23\bin\Debug\Linked List.23.pdb
+D:\C# with Visual Studio\Linked List.23\Linked List.23\obj\Debug\Linked List.23.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\Linked List.23\Linked List.23\obj\Debug\Linked List.23.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\Linked List.23\Linked List.23\obj\Debug\Linked List.23.exe
+D:\C# with Visual Studio\Linked List.23\Linked List.23\obj\Debug\Linked List.23.pdb

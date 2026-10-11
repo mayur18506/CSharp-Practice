@@ -1,0 +1,7 @@
+D:\C# with Visual Studio\project 2\project 2\obj\Debug\project 2.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\project 2\project 2\obj\Debug\project 2.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\project 2\project 2\bin\Debug\project 2.exe.config
+D:\C# with Visual Studio\project 2\project 2\bin\Debug\project 2.exe
+D:\C# with Visual Studio\project 2\project 2\bin\Debug\project 2.pdb
+D:\C# with Visual Studio\project 2\project 2\obj\Debug\project 2.exe
+D:\C# with Visual Studio\project 2\project 2\obj\Debug\project 2.pdb
