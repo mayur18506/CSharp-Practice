@@ -1,0 +1,7 @@
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\bin\Debug\LIST,STACK,QUEUE.21.exe.config
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\bin\Debug\LIST,STACK,QUEUE.21.exe
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\bin\Debug\LIST,STACK,QUEUE.21.pdb
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\obj\Debug\LIST,STACK,QUEUE.21.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\obj\Debug\LIST,STACK,QUEUE.21.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\obj\Debug\LIST,STACK,QUEUE.21.exe
+D:\C# with Visual Studio\LIST,STACK,QUEUE.21\LIST,STACK,QUEUE.21\obj\Debug\LIST,STACK,QUEUE.21.pdb
