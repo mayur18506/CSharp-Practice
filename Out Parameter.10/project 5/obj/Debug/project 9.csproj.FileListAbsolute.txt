@@ -1,0 +1,4 @@
+D:\C# with Visual Studio\project 9\project 5\obj\Debug\project 9.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\project 9\project 5\obj\Debug\project 9.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\project 9\project 5\obj\Debug\project 5.exe
+D:\C# with Visual Studio\project 9\project 5\obj\Debug\project 5.pdb

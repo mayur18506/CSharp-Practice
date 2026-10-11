@@ -1,0 +1,7 @@
+D:\C# with Visual Studio\project 4\project 4\bin\Debug\project 4.exe.config
+D:\C# with Visual Studio\project 4\project 4\bin\Debug\project 4.exe
+D:\C# with Visual Studio\project 4\project 4\bin\Debug\project 4.pdb
+D:\C# with Visual Studio\project 4\project 4\obj\Debug\project 4.csproj.AssemblyReference.cache
+D:\C# with Visual Studio\project 4\project 4\obj\Debug\project 4.csproj.CoreCompileInputs.cache
+D:\C# with Visual Studio\project 4\project 4\obj\Debug\project 4.exe
+D:\C# with Visual Studio\project 4\project 4\obj\Debug\project 4.pdb
